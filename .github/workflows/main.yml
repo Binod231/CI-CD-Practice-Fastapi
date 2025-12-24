@@ -27,4 +27,4 @@ jobs:
           file: ./Dockerfile
           push: true
           # REPLACE 'your-username/cicd-practice' with your actual Docker Hub repo
-          tags: binod213/CI-CD-Practice-Fastapi:latest
+          tags: binod213/ci-cd-practice-fastapi:latest
